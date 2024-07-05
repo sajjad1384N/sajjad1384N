@@ -81,7 +81,6 @@
 |  01  | Airbnb Project     |     [Link](https://college-project-130m.onrender.com/) |  [Repository](https://github.com/sajjad1384N/college-project.git)            |
 |  02  | Weather Widget     | [Link](https://sajjad1384n.github.io/Weather_App/)     |  [Repository](https://github.com/sajjad1384N/Weather_App.git)                |
 |  03  | E-Commerce         | [Link](https://mern-e-commerce-frontend-orcin.vercel.app/)|   [Repository](https://github.com/sajjad1384N/MERN_E_COMMERCE_API.git)
-                                                                                     |    [Fronted](https://github.com/sajjad1384N/MERN_E_Commerce-frontend.git)    |
 |  06  | WhatApp Chat       |        [Link](/)                                       |    [Repository](https://github.com/sajjad1384N/mini-whatsapp-project.git) <sup>Wait</sup>|                     
 
 
