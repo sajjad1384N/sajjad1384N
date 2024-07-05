@@ -23,10 +23,10 @@
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
-[<img src="https://img.shields.io/badge/-Akashdeep-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/akashdeep023/)
-[<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.akashdeep023@gmail.com)
-[<img src="https://img.shields.io/badge/-@sajjad1384N__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/akashdeep023_/)
-[<img src="https://img.shields.io/github/followers/sajjjad1384N?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/akashdeep023)
+[<img src="https://img.shields.io/badge/-Sajjad-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/md-sajjad-ansari-621684233/)
+[<img src="https://img.shields.io/badge/-contact.sajjadansari1384@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.sajjadansari1384@gmail.com)
+[<img src="https://img.shields.io/badge/-@sajjad1384N__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/mdsajjad1475_/)
+[<img src="https://img.shields.io/github/followers/sajjjad1384N?label=sajjad1384N&style=social" height="32" title="Follow me" />](https://github.com/sajjad1384N)
 </br></br>
 
 ## 💻 Some stats 💻
@@ -69,7 +69,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=sajjad1384N&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
+[![](https://github-profile-trophy.vercel.app/?username=sajjad1384N&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/sajjad1384N)<br><br>
 
 ## 🧑‍🏫 All Projects
 
@@ -80,9 +80,9 @@
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
 |  01  | Airbnb Project     |     [Link](https://college-project-130m.onrender.com/) |  [Repository](https://github.com/sajjad1384N/college-project.git)            |
 |  02  | Weather Widget     | [Link](https://sajjad1384n.github.io/Weather_App/)     |  [Repository](https://github.com/sajjad1384N/Weather_App.git)                |
-|  03  | E-Commerce         | [Link](https://mern-e-commerce-frontend-orcin.vercel.app/)  |   [Repository](https://github.com/sajjad1384N/MERN_E_COMMERCE_API.git)
-                                                                                     |     [Fronted](https://github.com/sajjad1384N/MERN_E_Commerce-frontend.git)    |
-|  06  | WhatApp Chat       |        [Link](/)        |                        [Repository](https://github.com/sajjad1384N/mini-whatsapp-project.git) <sup>Wait</sup>                        |
+|  03  | E-Commerce         | [Link](https://mern-e-commerce-frontend-orcin.vercel.app/)|   [Repository](https://github.com/sajjad1384N/MERN_E_COMMERCE_API.git)
+                                                                                     |    [Fronted](https://github.com/sajjad1384N/MERN_E_Commerce-frontend.git)    |
+|  06  | WhatApp Chat       |        [Link](/)                                       |    [Repository](https://github.com/sajjad1384N/mini-whatsapp-project.git) <sup>Wait</sup>|                     
 
 
 
