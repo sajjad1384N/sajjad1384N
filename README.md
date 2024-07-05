@@ -1,13 +1,13 @@
-# 👋 Hi, I’m @akashdeep023 (Akash Deep)
+# 👋 Hi, I’m @sajjad1384N (Md Sajjad Ansari)
 
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+  <a style="" href="https://github.com/sajjad1384N">
+  <img src="https://profile-counter.glitch.me/sajjad1384N/count.svg" />
   </a>
 </p>
-<a style="" href="https://github.com/akashdeep023">
+<a style="" href="https://github.com/sajjad1384N">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
@@ -25,25 +25,25 @@
 
 [<img src="https://img.shields.io/badge/-Akashdeep-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/akashdeep023/)
 [<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.akashdeep023@gmail.com)
-[<img src="https://img.shields.io/badge/-@akashdeep023__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/akashdeep023_/)
-[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/akashdeep023)
+[<img src="https://img.shields.io/badge/-@sajjad1384N__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/akashdeep023_/)
+[<img src="https://img.shields.io/github/followers/sajjjad1384N?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/akashdeep023)
 </br></br>
 
 ## 💻 Some stats 💻
 
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-<a style="" href="https://github.com/akashdeep023">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+<a style="" href="https://github.com/sajjad1384N">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=sajjad1384N&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
-<a style="" href="https://github.com/akashdeep023">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
+<a style="" href="https://github.com/sajjad1384N">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad1384N&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
 
 ## 👨‍💻 Languages and Tools
 
 <span>
-  <a href="https://github.com/akashdeep023">
+  <a href="https://github.com/sajjad1384N">
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -69,7 +69,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
+[![](https://github-profile-trophy.vercel.app/?username=sajjad1384N&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)<br><br>
 
 ## 🧑‍🏫 All Projects
 
@@ -96,16 +96,11 @@
 |  09  | ToDo Game Js       |   [Link](https://akashdeep023.github.io/ToDo_Game/)    |          [Repository](https://github.com/akashdeep023/ToDo_Game_Js)          |
 |  10  | Lottery Game       |  [Link](https://lottery-game-react-jack.netlify.app/)  |          [Repository](https://github.com/akashdeep023/Lottery-Game)          |
 
-| S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
-| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | MT Project       |       [Link](https://mt-project-jack.netlify.app/)       |    [Repository](https://github.com/akashdeep023/MT_Project)    |
-|  02  | Css Mini Project | [Link](https://akashdeep023.github.io/CSS-Mini-Project/) | [Repository](https://github.com/akashdeep023/CSS-Mini-Project) |
-|  03  | Insta Story Js   |  [Link](https://akashdeep023.github.io/Insta_Story_Js/)  |  [Repository](https://github.com/akashdeep023/Insta_Story_Js)  |
-|  04  | Card Project Js  | [Link](https://akashdeep023.github.io/Card_Project_Js/)  | [Repository](https://github.com/akashdeep023/Card_Project_Js)  |
+
 
 ---
 
-<a href="https://github.com/akashdeep023">
+<a href="https://github.com/sajjad1384N">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
 
